@@ -3,7 +3,7 @@
 Get track.csv from link : https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks
 
 Hadoop 2.7.0
-Sparl 2.4.5
+Spark 2.4.5
 Kafka 3.0.0
 
 #NOTE
